@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: nodejs-picture-voting-game-
-  host: nodejs-picture-voting-game-
+  name: nodejs-picture-voting-game
+  host: nodejs-picture-voting-game
   disk_quota: 1024M
